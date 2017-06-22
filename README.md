@@ -1,6 +1,6 @@
 # Intro to Git and Github
 
-## Course description
+## Course OUTLINE
 
 Ever make changes that broke your code and forgot how your code worked before? Want to work with someone on a code project, but aren't sure who has the latest version of a particular file? Version control can solve these problems and more!
 
